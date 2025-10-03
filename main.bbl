@@ -1,0 +1,1352 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{simpleParkProbe}{article}{}
+      \name{author}{5}{}{%
+        {{hash=777c7430fb8fc29dfb6563ae295cbb07}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Toru},
+           giveni={T\bibinitperiod}}}%
+        {{hash=179024995d8d0f2c955a7b7762d63754}{%
+           family={Konishi},
+           familyi={K\bibinitperiod},
+           given={Yoshihiko},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=95679fc2f9847b870562f00c5cb96be5}{%
+           family={Makino},
+           familyi={M\bibinitperiod},
+           given={Shigeru},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3239409e4286ea172267ddad8c134152}{%
+           family={Ohmine},
+           familyi={O\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=5910fcd031c381c823b695a517d7b560}{%
+           family={Nakaguro},
+           familyi={N\bibinitperiod},
+           given={Hiromasa},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{839c567619fa77107f7e74418074e898}
+      \strng{fullhash}{3d6ca664caf8cf96c0b014605da26074}
+      \strng{bibnamehash}{3d6ca664caf8cf96c0b014605da26074}
+      \strng{authorbibnamehash}{3d6ca664caf8cf96c0b014605da26074}
+      \strng{authornamehash}{839c567619fa77107f7e74418074e898}
+      \strng{authorfullhash}{3d6ca664caf8cf96c0b014605da26074}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Antennas and Propagation}
+      \field{number}{7}
+      \field{title}{Fast Measurement Technique for Phased Array Calibration}
+      \field{volume}{56}
+      \field{year}{2008}
+      \field{pages}{1888\bibrangedash 1899}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TAP.2008.924682
+      \endverb
+      \keyw{Phased arrays;Measurement techniques;Calibration;Antenna measurements;Phase measurement;Electric variables measurement;Antenna arrays;Power measurement;Rotation measurement;Fourier series;Calibration;Fourier series;measurement;measurement errors;phased arrays}
+    \endentry
+    \entry{fastSimplePP}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c885ccacfde4ba35e34ca15d7bb6c726}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=66754a0b1ec8d3f34e15c0828daaacbd}{%
+           family={Ouyang},
+           familyi={O\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f92b99567ca18f79ac55f8db57b458f1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f05b3702f083c2184a7dcf000c87bb2d}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Wangwang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=275821321750c283d8b239bf4d2edfac}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Longjian},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd5deded2a8ceb50511c9d437d6654af}
+      \strng{fullhash}{d1684cf18e79ad932dfe160a28e490aa}
+      \strng{bibnamehash}{d1684cf18e79ad932dfe160a28e490aa}
+      \strng{authorbibnamehash}{d1684cf18e79ad932dfe160a28e490aa}
+      \strng{authornamehash}{fd5deded2a8ceb50511c9d437d6654af}
+      \strng{authorfullhash}{d1684cf18e79ad932dfe160a28e490aa}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Antennas and Propagation}
+      \field{number}{6}
+      \field{title}{Multi-Element Phased Array Calibration Method by Solving Linear Equations}
+      \field{volume}{65}
+      \field{year}{2017}
+      \field{pages}{2931\bibrangedash 2939}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TAP.2017.2694767
+      \endverb
+      \keyw{Antenna measurements;Calibration;Receiving antennas;Phased arrays;Phase measurement;Calibration method;measurement method;phased array antenna;phased array calibration}
+    \endentry
+    \entry{seker}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=140470068fb031e85ff19f9fd1e3ec86}{%
+           family={Şeker},
+           familyi={Ş\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{140470068fb031e85ff19f9fd1e3ec86}
+      \strng{fullhash}{140470068fb031e85ff19f9fd1e3ec86}
+      \strng{bibnamehash}{140470068fb031e85ff19f9fd1e3ec86}
+      \strng{authorbibnamehash}{140470068fb031e85ff19f9fd1e3ec86}
+      \strng{authornamehash}{140470068fb031e85ff19f9fd1e3ec86}
+      \strng{authorfullhash}{140470068fb031e85ff19f9fd1e3ec86}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of SPIE}
+      \field{month}{5}
+      \field{title}{Calibration methods for phased array radars}
+      \field{volume}{8714}
+      \field{year}{2013}
+      \field{pages}{87140W-1\bibrangedash 87140W-15}
+      \range{pages}{-1}
+    \endentry
+    \entry{brown2014phased}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=21ad46459848d632520fb6eb3266095b}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=56c7dcc737a076cfe787e7a37e85e792}{%
+           family={Mirkin},
+           familyi={M\bibinitperiod},
+           given={Mitch},
+           giveni={M\bibinitperiod}}}%
+        {{hash=981274172ea98c9510879408d56f249d}{%
+           family={Rabideau},
+           familyi={R\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3b787009da80db5b3cf22accae34a133}
+      \strng{fullhash}{3b787009da80db5b3cf22accae34a133}
+      \strng{bibnamehash}{3b787009da80db5b3cf22accae34a133}
+      \strng{authorbibnamehash}{3b787009da80db5b3cf22accae34a133}
+      \strng{authornamehash}{3b787009da80db5b3cf22accae34a133}
+      \strng{authorfullhash}{3b787009da80db5b3cf22accae34a133}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 48th Asilomar Conference on Signals, Systems and Computers}
+      \field{title}{Phased array antenna calibration using airborne radar clutter and MIMO}
+      \field{year}{2014}
+      \field{pages}{1150\bibrangedash 1156}
+      \range{pages}{7}
+    \endentry
+    \entry{horuscal}{inproceedings}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=288b80521b5c7a932ccea7aa0483a5cf}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Waltham, MA, USA}%
+      }
+      \strng{namehash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \strng{fullhash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \strng{bibnamehash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \strng{authorbibnamehash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \strng{authornamehash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \strng{authorfullhash}{5d9ce8e24932fa9b22474bb40c5ffb46}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE International Symposium on Phased Array Systems \& Technology (PAST)}
+      \field{title}{Mutual Coupling-Based Calibration for the {H}orus Digital Phased Array Radar}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PAST49659.2022.9974962
+      \endverb
+      \keyw{Phased arrays; Mutual coupling; Phase measurement; Radar; Radar polarimetry; Calibration; Monitoring; phased array radar; radar calibration; polarimetric radar; digital radar; weather radar}
+    \endentry
+    \entry{embeddedFeedLineCal}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=f4dc898888d5c855a548a820e76f4306}{%
+           family={Inac},
+           familyi={I\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=bd2ad20e5878667a37d960d3f31da518}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=108e5df81e3ab26dd5a60071fa737a9c}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=faca100ce907ae0d8650fdd88cd193af}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={C.\bibnamedelimi Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=bb6a931ee55a114acb66e237c8ce9835}{%
+           family={Rebeiz},
+           familyi={R\bibinitperiod},
+           given={G.\bibnamedelimi M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \strng{namehash}{fa5e24048ead4574809d94fd60d8553c}
+      \strng{fullhash}{750128bec845599a70ddfcb8c4d28b8f}
+      \strng{bibnamehash}{750128bec845599a70ddfcb8c4d28b8f}
+      \strng{authorbibnamehash}{750128bec845599a70ddfcb8c4d28b8f}
+      \strng{authornamehash}{fa5e24048ead4574809d94fd60d8553c}
+      \strng{authorfullhash}{750128bec845599a70ddfcb8c4d28b8f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2012 IEEE/MTT-S International Microwave Symposium Digest}
+      \field{title}{Built-in self test systems for silicon-based phased arrays}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1109/MWSYM.2012.6259455
+      \endverb
+      \keyw{Built-in self-test;Phased arrays;Couplers;Receivers;Semiconductor device measurement;Phase measurement;Phased arrays;Built-In-Self-Test;SiGe;CMOS}
+    \endentry
+    \entry{javier}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=b08d31355887dc6a9b3fea21c36a63ab}{%
+           family={Lujan},
+           familyi={L\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77a871360757cf2916f79e7b00555782}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={Caleb\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f40cf4e36db7d835abad4d66423aff5e}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dd7f54dfbb3592f7f574fa5e97c4a79b}{%
+           family={Langley},
+           familyi={L\bibinitperiod},
+           given={Ellie\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a1540083f34351d515c789ef042b5c11}{%
+           family={McCormick},
+           familyi={M\bibinitperiod},
+           given={Seth},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f1e02304a51f28b3c869cfce8dc7c4bb}{%
+           family={Hedden},
+           familyi={H\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bb89c097d0b9e816966926009b7d8b3a}{%
+           family={Ranney},
+           familyi={R\bibinitperiod},
+           given={Kenneth\bibnamedelima I.},
+           giveni={K\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=4178a1be8dd05e0924a4ea1514fa0389}{%
+           family={Raynal},
+           familyi={R\bibinitperiod},
+           given={Ann\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{2}{%
+        {International Society for Optics}%
+        {Photonics}%
+      }
+      \list{publisher}{1}{%
+        {SPIE}%
+      }
+      \strng{namehash}{25a0c6ab808fbca864cdcbdaf791df6c}
+      \strng{fullhash}{6eb3e1e58f7568fd23999868fb21dc41}
+      \strng{bibnamehash}{6eb3e1e58f7568fd23999868fb21dc41}
+      \strng{authorbibnamehash}{6eb3e1e58f7568fd23999868fb21dc41}
+      \strng{authornamehash}{25a0c6ab808fbca864cdcbdaf791df6c}
+      \strng{authorfullhash}{6eb3e1e58f7568fd23999868fb21dc41}
+      \strng{editorbibnamehash}{cc7304c87f2485c43ee9d5902c549ecd}
+      \strng{editornamehash}{cc7304c87f2485c43ee9d5902c549ecd}
+      \strng{editorfullhash}{cc7304c87f2485c43ee9d5902c549ecd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Radar Sensor Technology XXIV}
+      \field{title}{{Phased array radar initial alignment algorithm using mutual coupling: an iterative approach}}
+      \field{volume}{11408}
+      \field{year}{2020}
+      \field{pages}{1140811}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/12.2562963
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1117/12.2562963
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1117/12.2562963
+      \endverb
+      \keyw{Mutual Coupling,calibration,Digital Arrays}
+    \endentry
+    \entry{lebron}{article}{}
+      \name{author}{5}{}{%
+        {{hash=afdb52922fdcb5c9e76bf3b50db3cba3}{%
+           family={Lebrón},
+           familyi={L\bibinitperiod},
+           given={Rodrigo\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0e8a15556cf5ea3f569606f78719d682}{%
+           family={Tsai},
+           familyi={T\bibinitperiod},
+           given={Pei-Sang},
+           giveni={P\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=a920dc661f0ee36b574cdc79d1e8bb24}{%
+           family={Emmett},
+           familyi={E\bibinitperiod},
+           given={Jonathan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ee2e39719b741019b3df1c844bf0976}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={Caleb},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1718da5bd0ba6d304d275af1d2845e81}{%
+           family={Salazar-Cerreno},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Jorge\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6693ad18b03f1a2dc2c68c811b7d6c34}
+      \strng{fullhash}{359224608bde0e92c2d32444e197fde9}
+      \strng{bibnamehash}{359224608bde0e92c2d32444e197fde9}
+      \strng{authorbibnamehash}{359224608bde0e92c2d32444e197fde9}
+      \strng{authornamehash}{6693ad18b03f1a2dc2c68c811b7d6c34}
+      \strng{authorfullhash}{359224608bde0e92c2d32444e197fde9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{title}{Validation and Testing of Initial and In-Situ Mutual Coupling-Based Calibration of a Dual-Polarized Active Phased Array Antenna}
+      \field{volume}{8}
+      \field{year}{2020}
+      \field{pages}{78315\bibrangedash 78329}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2020.2983523
+      \endverb
+      \keyw{Calibration;Phased arrays;Probes;Mutual coupling;Couplings;Radar;Active phased array;calibration;component failure;mutual coupling;park and probe}
+    \endentry
+    \entry{herd2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4ccdce4b1d538189c6c49989318f9d87}{%
+           family={Herd},
+           familyi={H\bibinitperiod},
+           given={Jeffrey\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=86ac2234f4d2146f60cf538c2e829e7d}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima David},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \strng{fullhash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \strng{bibnamehash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \strng{authorbibnamehash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \strng{authornamehash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \strng{authorfullhash}{3f7612cf8e2dbbab53b6ca75b62b934b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{3}
+      \field{title}{The evolution to modern phased array architectures}
+      \field{volume}{104}
+      \field{year}{2015}
+      \field{pages}{519\bibrangedash 529}
+      \range{pages}{11}
+    \endentry
+    \entry{dipole}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d19fa181c48b741595be2ce7381a64b8}{%
+           family={Langley},
+           familyi={L\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=288b80521b5c7a932ccea7aa0483a5cf}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6a0da3d652ca518ac130801b65207191}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tel Aviv, Israel}%
+      }
+      \strng{namehash}{9a31416af187ae7f929b16821897fa45}
+      \strng{fullhash}{9a31416af187ae7f929b16821897fa45}
+      \strng{bibnamehash}{9a31416af187ae7f929b16821897fa45}
+      \strng{authorbibnamehash}{9a31416af187ae7f929b16821897fa45}
+      \strng{authornamehash}{9a31416af187ae7f929b16821897fa45}
+      \strng{authorfullhash}{9a31416af187ae7f929b16821897fa45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE International Conference on Microwaves, Antennas, Communications and Electronic Systems (COMCAS)}
+      \field{title}{Analysis of Mutual Coupling Algorithms for a Dipole Array}
+      \field{year}{2021}
+      \field{pages}{326\bibrangedash 329}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/COMCAS52219.2021.9629046
+      \endverb
+      \keyw{Phased arrays; Mutual coupling; Codes; Radar antennas; Approximation algorithms; Mathematical models; Microwave antenna arrays; arrays; mutual coupling; calibration}
+    \endentry
+    \entry{largeScale}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=288b80521b5c7a932ccea7aa0483a5cf}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=304175f9e465cc12119459819027dda7}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=41ae9cd6acf7b955953c5c76d8afd290}{%
+           family={Zrnic},
+           familyi={Z\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a9ed6257d5f4e1ffa005759b4606015f}{%
+           family={Mirkovic},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=eee77fedfd3d6588faee76ca4a957b4f}{%
+           family={Ivic},
+           familyi={I\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=d5d2c1144414a2b704319dba1e4c5f09}{%
+           family={Doviak},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oklahoma City, OK, USA}%
+      }
+      \strng{namehash}{dedf9962e68493a07c73256d09725d35}
+      \strng{fullhash}{8c8ff3e116b1506d94faef210a3b9bda}
+      \strng{bibnamehash}{8c8ff3e116b1506d94faef210a3b9bda}
+      \strng{authorbibnamehash}{8c8ff3e116b1506d94faef210a3b9bda}
+      \strng{authornamehash}{dedf9962e68493a07c73256d09725d35}
+      \strng{authorfullhash}{8c8ff3e116b1506d94faef210a3b9bda}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE Radar Conference (RadarConf18)}
+      \field{title}{Polarimetric Phased Array Calibration for Large-Scale Multi-Mission Radar Applications}
+      \field{year}{2018}
+      \field{pages}{1272\bibrangedash 1277}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/RADAR.2018.8378746
+      \endverb
+      \keyw{Phased arrays; Meteorological radar; Meteorology; Surveillance; Calibration; Shape; phased arrays; weather radar; calibration; dual polarization}
+    \endentry
+    \entry{bekers}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=8705e543766e6c152d1b952fdaf5561e}{%
+           family={Bekers},
+           familyi={B\bibinitperiod},
+           given={Dave},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b01b1c800b80e4b2c74ce2d5bac8334d}{%
+           family={Dijk},
+           familyi={D\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=5a97b10a3aa1e1dd4f94f5c940c3d1ca}{%
+           family={Vliet},
+           familyi={V\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \strng{fullhash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \strng{bibnamehash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \strng{authorbibnamehash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \strng{authornamehash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \strng{authorfullhash}{a79ab063ec75c5fbeadddda7d4249ef9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE International Symposium on Phased Array Systems and Technology}
+      \field{title}{Mutual-coupling based phased-array calibration: A robust and versatile approach}
+      \field{year}{2013}
+      \field{pages}{630\bibrangedash 637}
+      \range{pages}{8}
+    \endentry
+    \entry{hassett}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=25a27c556bdd9d647594ac1f95723953}{%
+           family={Hassett},
+           familyi={H\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{25a27c556bdd9d647594ac1f95723953}
+      \strng{fullhash}{25a27c556bdd9d647594ac1f95723953}
+      \strng{bibnamehash}{25a27c556bdd9d647594ac1f95723953}
+      \strng{authorbibnamehash}{25a27c556bdd9d647594ac1f95723953}
+      \strng{authornamehash}{25a27c556bdd9d647594ac1f95723953}
+      \strng{authorfullhash}{25a27c556bdd9d647594ac1f95723953}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{European Conference Antennas Propagation (EuCAP)}
+      \field{title}{Phased Array Antenna Calibration Measurement Techniques and Methods}
+      \field{year}{2016}
+    \endentry
+    \entry{mitchell}{article}{}
+      \name{author}{1}{}{%
+        {{hash=588d775496c504ce45f40c9443e178c7}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Adam\bibnamedelima Edward},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{588d775496c504ce45f40c9443e178c7}
+      \strng{fullhash}{588d775496c504ce45f40c9443e178c7}
+      \strng{bibnamehash}{588d775496c504ce45f40c9443e178c7}
+      \strng{authorbibnamehash}{588d775496c504ce45f40c9443e178c7}
+      \strng{authornamehash}{588d775496c504ce45f40c9443e178c7}
+      \strng{authorfullhash}{588d775496c504ce45f40c9443e178c7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{University of Oklahoma MS Thesis}
+      \field{title}{Coupling-based wideband digital phased array calibration techniques}
+      \field{year}{2014}
+    \endentry
+    \entry{fulton}{inproceedings}{maxbibnames=99,maxcitenames=99,maxsortnames=99}
+      \name{author}{7}{}{%
+        {{hash=4ee2e39719b741019b3df1c844bf0976}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={Caleb},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b4256ed5848f2d937d6dbd3803a770df}{%
+           family={Kenworthy},
+           familyi={K\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b08d31355887dc6a9b3fea21c36a63ab}{%
+           family={Lujan},
+           familyi={L\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2206ead27a5f0c4d02e4d85735e65f57}{%
+           family={Herndon},
+           familyi={H\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=577ae7a12b45172a377d5672c95a7f5f}{%
+           family={Garner},
+           familyi={G\bibinitperiod},
+           given={Skyler},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2c78d8edf6853ce18c8ec48ebfd48d6c}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Devin},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f40cf4e36db7d835abad4d66423aff5e}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{6f0e47046c575ffb58671a2f368ade33}
+      \strng{fullhash}{6f0e47046c575ffb58671a2f368ade33}
+      \strng{bibnamehash}{6f0e47046c575ffb58671a2f368ade33}
+      \strng{authorbibnamehash}{6f0e47046c575ffb58671a2f368ade33}
+      \strng{authornamehash}{6f0e47046c575ffb58671a2f368ade33}
+      \strng{authorfullhash}{6f0e47046c575ffb58671a2f368ade33}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE International Symposium on Phased Array Systems \& Technology (PAST)}
+      \field{title}{Mutual coupling-based calibration for the {H}orus digital phased array radar}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{aumann}{article}{}
+      \name{author}{3}{}{%
+        {{hash=69fb4d046075908fe6720be9a9b96b09}{%
+           family={Aumann},
+           familyi={A\bibinitperiod},
+           given={Herbert\bibnamedelima M},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7706af1193c68102641e9455228dd3bd}{%
+           family={Fenn},
+           familyi={F\bibinitperiod},
+           given={Alan\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=1495554e4e7915dd414297f772e4861e}{%
+           family={Willwerth},
+           familyi={W\bibinitperiod},
+           given={Frank\bibnamedelima G},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \strng{fullhash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \strng{bibnamehash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \strng{authorbibnamehash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \strng{authornamehash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \strng{authorfullhash}{fbfe0fe3802a1a81e28226afd89be4e6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Antennas and Propagation}
+      \field{number}{7}
+      \field{title}{Phased array antenna calibration and pattern prediction using mutual coupling measurements}
+      \field{volume}{37}
+      \field{year}{1989}
+      \field{pages}{844\bibrangedash 850}
+      \range{pages}{7}
+    \endentry
+    \entry{sasser}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e828db36b54a3268cd51f01959d6ab07}{%
+           family={Sasser},
+           familyi={S\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Oklahoma – Graduate College}%
+      }
+      \list{location}{1}{%
+        {United States -- Oklahoma, US}%
+      }
+      \strng{namehash}{e828db36b54a3268cd51f01959d6ab07}
+      \strng{fullhash}{e828db36b54a3268cd51f01959d6ab07}
+      \strng{bibnamehash}{e828db36b54a3268cd51f01959d6ab07}
+      \strng{authorbibnamehash}{e828db36b54a3268cd51f01959d6ab07}
+      \strng{authornamehash}{e828db36b54a3268cd51f01959d6ab07}
+      \strng{authorfullhash}{e828db36b54a3268cd51f01959d6ab07}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Order No. 32001011}
+      \field{title}{Geometry Agnostic Mutual Coupling Calibration for Phased Array Radar Systems}
+      \field{type}{mathesis}
+      \field{year}{2025}
+    \endentry
+    \entry{MCeffects}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=6197a2acd33d541585867772b81701ff}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Hema},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a9a85bebaa2c4e261ff870ae50c78147}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Rakesh\bibnamedelima Mohan},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f088c415af9fc8a3f748f247241dc16f}
+      \strng{fullhash}{f088c415af9fc8a3f748f247241dc16f}
+      \strng{bibnamehash}{f088c415af9fc8a3f748f247241dc16f}
+      \strng{authorbibnamehash}{f088c415af9fc8a3f748f247241dc16f}
+      \strng{authornamehash}{f088c415af9fc8a3f748f247241dc16f}
+      \strng{authorfullhash}{f088c415af9fc8a3f748f247241dc16f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Active Radar Cross Section Reduction: Theory and Applications}
+      \field{title}{Mutual Coupling Effects in Phased Arrays}
+      \field{year}{2015}
+      \field{pages}{177\bibrangedash 215}
+      \range{pages}{39}
+    \endentry
+    \entry{zacharydunn}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3a4f78e328953b01aae07c8b888bb012}{%
+           family={Dunn},
+           familyi={D\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6a0da3d652ca518ac130801b65207191}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=288b80521b5c7a932ccea7aa0483a5cf}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a2421bb8641e0d8a5a15a8b40205c348}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe30013890f3b5ef5c8470770a6a964d}
+      \strng{fullhash}{b71f509f2434eb84742f60545950d606}
+      \strng{bibnamehash}{b71f509f2434eb84742f60545950d606}
+      \strng{authorbibnamehash}{b71f509f2434eb84742f60545950d606}
+      \strng{authornamehash}{fe30013890f3b5ef5c8470770a6a964d}
+      \strng{authorfullhash}{b71f509f2434eb84742f60545950d606}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Aerospace and Electronic Systems}
+      \field{month}{10}
+      \field{number}{5}
+      \field{title}{Wideband digital predistortion of solid-state radar amplifiers}
+      \field{volume}{52}
+      \field{year}{2016}
+      \field{pages}{2452\bibrangedash 2466}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1109/TAES.2016.150142
+      \endverb
+      \keyw{Power generation;Predistortion;Radar;Power measurement;Wideband;Mathematical model}
+    \endentry
+    \entry{balanisant}{book}{}
+      \name{author}{1}{}{%
+        {{hash=300a12a82930b359f126eb819d7831ba}{%
+           family={Balanis},
+           familyi={B\bibinitperiod},
+           given={Constantine\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Inc.}%
+      }
+      \strng{namehash}{300a12a82930b359f126eb819d7831ba}
+      \strng{fullhash}{300a12a82930b359f126eb819d7831ba}
+      \strng{bibnamehash}{300a12a82930b359f126eb819d7831ba}
+      \strng{authorbibnamehash}{300a12a82930b359f126eb819d7831ba}
+      \strng{authornamehash}{300a12a82930b359f126eb819d7831ba}
+      \strng{authorfullhash}{300a12a82930b359f126eb819d7831ba}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antenna Theory Analysis and Design}
+      \field{year}{2005}
+    \endentry
+    \entry{HFSS}{manual}{}
+      \list{organization}{1}{%
+        {HFSS}%
+      }
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{title}{{HFSS} Getting starting Guides/Radar cross section ({RCS}) model}
+      \field{year}{2015}
+    \endentry
+    \entry{jablon}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=432ef86ebc419d2ed3b9623b268fb496}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ccd0b23ae645beae7227ea00545bc3e0}{%
+           family={Jablon},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{290fb60f18eaf0271887183576f8b227}
+      \strng{fullhash}{290fb60f18eaf0271887183576f8b227}
+      \strng{bibnamehash}{290fb60f18eaf0271887183576f8b227}
+      \strng{authorbibnamehash}{290fb60f18eaf0271887183576f8b227}
+      \strng{authornamehash}{290fb60f18eaf0271887183576f8b227}
+      \strng{authorfullhash}{290fb60f18eaf0271887183576f8b227}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE International Symposium on Phased Array Systems and Technology, 2003.}
+      \field{title}{A calibration technique for active phased array antennas}
+      \field{year}{2003}
+      \field{pages}{223\bibrangedash 228}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/PAST.2003.1256985
+      \endverb
+      \keyw{Phased arrays;Calibration;Antenna arrays;Production facilities;Antenna measurements;Aperture antennas;Receiving antennas;Transmitting antennas;Degradation;Mutual coupling}
+    \endentry
+    \entry{horusgeneral}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=3c3134e748c03ee23936805f51045a69}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b508749786bf73d4490061c5e32de370}
+      \strng{fullhash}{b508749786bf73d4490061c5e32de370}
+      \strng{bibnamehash}{b508749786bf73d4490061c5e32de370}
+      \strng{authorbibnamehash}{b508749786bf73d4490061c5e32de370}
+      \strng{authornamehash}{b508749786bf73d4490061c5e32de370}
+      \strng{authorfullhash}{b508749786bf73d4490061c5e32de370}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Radar Systems}
+      \field{title}{Horus—A Fully Digital Polarimetric Phased Array Radar for Next-Generation Weather Observations}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{pages}{96\bibrangedash 117}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1109/TRS.2023.3280033
+      \endverb
+      \keyw{Radar; Meteorological radar; Radar polarimetry; Phased arrays; Radar imaging; Doppler radar; Phased arrays; weather radar; fully digital radar}
+    \endentry
+    \entry{yeary2021}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6a0da3d652ca518ac130801b65207191}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8b61b2f107c8a6afbbc42d0f72a71eeb}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=288b80521b5c7a932ccea7aa0483a5cf}{%
+           family={Fulton},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=304175f9e465cc12119459819027dda7}{%
+           family={Salazar},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=81007a77b2939e3a7c6cf460c0de6a1f}{%
+           family={Sigmarsson},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{68fe716c49f808ad7ddf3c5c0c4d5782}
+      \strng{fullhash}{3a0e57989fb69f26d0870c002fd0e268}
+      \strng{bibnamehash}{3a0e57989fb69f26d0870c002fd0e268}
+      \strng{authorbibnamehash}{3a0e57989fb69f26d0870c002fd0e268}
+      \strng{authornamehash}{68fe716c49f808ad7ddf3c5c0c4d5782}
+      \strng{authorfullhash}{3a0e57989fb69f26d0870c002fd0e268}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Radar Conference (RadarConf21)}
+      \field{title}{Update on an {S}-Band All-Digital Mobile Phased Array Radar}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{diagnostic}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=7081e24abe72a28acfa07b7e8b886e77}{%
+           family={Neidman},
+           familyi={N\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b9874c2fd20e28a42cb1c800455167e2}{%
+           family={Shavit},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9f5c39015e0748d55a88190d824bc1fe}{%
+           family={Bronshtein},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \strng{fullhash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \strng{bibnamehash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \strng{authorbibnamehash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \strng{authornamehash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \strng{authorfullhash}{a9e5cfd6e6e751c4f42603d3fd5fd224}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2008 IEEE International Conference on Microwaves, Communications, Antennas and Electronic Systems}
+      \field{title}{Diagnostic of phased arrays with fault elements using the mutual coupling method}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/COMCAS.2008.4562802
+      \endverb
+      \keyw{Phased arrays;Mutual coupling;Calibration;Antenna arrays;Antenna radiation patterns;Linear antenna arrays;Testing;Maintenance engineering;Production facilities;Costs}
+    \endentry
+    \entry{nickel}{article}{}
+      \name{author}{1}{}{%
+        {{hash=41524b587477c16b78939fffa0ca1f15}{%
+           family={Nickel},
+           familyi={N\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{41524b587477c16b78939fffa0ca1f15}
+      \strng{fullhash}{41524b587477c16b78939fffa0ca1f15}
+      \strng{bibnamehash}{41524b587477c16b78939fffa0ca1f15}
+      \strng{authorbibnamehash}{41524b587477c16b78939fffa0ca1f15}
+      \strng{authornamehash}{41524b587477c16b78939fffa0ca1f15}
+      \strng{authorfullhash}{41524b587477c16b78939fffa0ca1f15}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Antennas and Propagation}
+      \field{number}{1}
+      \field{title}{Array processing for radar: achievements and challenges}
+      \field{volume}{2013}
+      \field{year}{2013}
+      \field{pages}{261230}
+      \range{pages}{1}
+    \endentry
+    \entry{linder2025sub}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c9eaaffaec562e4d6b5c54b86a265093}{%
+           family={Linder},
+           familyi={L\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d67d8cf0c11995175e99c8f63889a34c}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=daa904d95d4d23b9d49429a807dd99a6}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+        {{hash=02a9fdba99123f2810bc565f490ea5e3}{%
+           family={Riese},
+           familyi={R\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+        {{hash=89042ea1ee9e986b1f6d3a92ad45f9a5}{%
+           family={Waldschmidt},
+           familyi={W\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{12a7bb30e2fed13868acac0755f6d9d3}
+      \strng{fullhash}{030642d834e536fe8a81fcdfdce96214}
+      \strng{bibnamehash}{030642d834e536fe8a81fcdfdce96214}
+      \strng{authorbibnamehash}{030642d834e536fe8a81fcdfdce96214}
+      \strng{authornamehash}{12a7bb30e2fed13868acac0755f6d9d3}
+      \strng{authorfullhash}{030642d834e536fe8a81fcdfdce96214}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Open Journal of Antennas and Propagation}
+      \field{title}{A Sub-Aperture Based Calibration Algorithm for MIMO Antenna Arrays}
+      \field{year}{2025}
+    \endentry
+    \entry{harger2021}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=1e364d75ebeca6d6a11aa7e8f724f891}{%
+           family={Harger},
+           familyi={H\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=86ac2234f4d2146f60cf538c2e829e7d}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima David},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8ddf25e628cb8da3bbc03ffe9cda9da5}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6bb78152533f89075b5b8e43bd44d08c}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ad9134c2d60e268a001bfc1fbdcde7bb}{%
+           family={Bendickson},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dad721e5f7a591056436c7ef766d0acb}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b961c6c0d7cdb12c2af65a72d157b17}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Ted},
+           giveni={T\bibinitperiod}}}%
+        {{hash=adf0e91207b07dfdb24843008127b4cc}{%
+           family={Van\bibnamedelima Schaick},
+           familyi={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{63122982482071d2d95bbb4c2fb0ddd5}
+      \strng{fullhash}{928902a99d4555a6aa7f81a084fe90a5}
+      \strng{bibnamehash}{63122982482071d2d95bbb4c2fb0ddd5}
+      \strng{authorbibnamehash}{63122982482071d2d95bbb4c2fb0ddd5}
+      \strng{authornamehash}{63122982482071d2d95bbb4c2fb0ddd5}
+      \strng{authorfullhash}{928902a99d4555a6aa7f81a084fe90a5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE Radar Conference (RadarConf21)}
+      \field{title}{Fully digital phased array development for next generation weather radar}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{conway2013}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=53f4fe635c61c1fc0488c0ba5a1ed140}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=79e94406e2c46ddb3de35af9fc21f618}{%
+           family={Herd},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=32f090c21ae0ac9372737e02eb6a7007}{%
+           family={Fosberry},
+           familyi={F\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c47d964f1d656ebbfeb8170d0fd4dc44}{%
+           family={Harger},
+           familyi={H\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c57c79930ead32e866a1bfc9d7d1814}{%
+           family={Weigand},
+           familyi={W\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6a0da3d652ca518ac130801b65207191}{%
+           family={Yeary},
+           familyi={Y\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=52cde35b0c9059113a71034eb7810a61}{%
+           family={Hondl},
+           familyi={H\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b2a8a3f2cd7525930101d33b39ca0a77}
+      \strng{fullhash}{73dd0357647d2211aadec1adc54b8d1f}
+      \strng{bibnamehash}{b2a8a3f2cd7525930101d33b39ca0a77}
+      \strng{authorbibnamehash}{b2a8a3f2cd7525930101d33b39ca0a77}
+      \strng{authornamehash}{b2a8a3f2cd7525930101d33b39ca0a77}
+      \strng{authorfullhash}{73dd0357647d2211aadec1adc54b8d1f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2013 IEEE International Symposium on Phased Array Systems and Technology}
+      \field{title}{On the development of a tileable LRU for the nextgen surveillance and weather radar capability program}
+      \field{year}{2013}
+      \field{pages}{490\bibrangedash 493}
+      \range{pages}{4}
+    \endentry
+    \entry{benefits}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f0f7f36130c02359dd0f8a90c915fdd3}{%
+           family={Talisa},
+           familyi={T\bibinitperiod},
+           given={Salvador\bibnamedelima H},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6472788fd6f30b25f37f0c74cb7e54bf}{%
+           family={O'Haver},
+           familyi={O\bibinitperiod},
+           given={Kenneth\bibnamedelima W},
+           giveni={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3c7b02e63306c165c44779437280c1ba}{%
+           family={Comberiate},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima M},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=d8306f58c202cdf0debfcdd8f66437f4}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima D},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4bf7570bf64da65fa2a12912ea984a9c}{%
+           family={Somerlock},
+           familyi={S\bibinitperiod},
+           given={Oscar\bibnamedelima F},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dc6f7300f80dd44b8ce4ba6f1ad7bba3}
+      \strng{fullhash}{291100ddb42a74f2ca8da8f7d8a2cc31}
+      \strng{bibnamehash}{291100ddb42a74f2ca8da8f7d8a2cc31}
+      \strng{authorbibnamehash}{291100ddb42a74f2ca8da8f7d8a2cc31}
+      \strng{authornamehash}{dc6f7300f80dd44b8ce4ba6f1ad7bba3}
+      \strng{authorfullhash}{291100ddb42a74f2ca8da8f7d8a2cc31}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the IEEE}
+      \field{number}{3}
+      \field{title}{Benefits of digital phased array radars}
+      \field{volume}{104}
+      \field{year}{2016}
+      \field{pages}{530\bibrangedash 543}
+      \range{pages}{14}
+    \endentry
+    \entry{ganti2018calibration}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a72ccc4ff7b86c12d8c2ece32f0062a1}{%
+           family={Ganti},
+           familyi={G\bibinitperiod},
+           given={Anil},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \strng{fullhash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \strng{bibnamehash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \strng{authorbibnamehash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \strng{authornamehash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \strng{authorfullhash}{a72ccc4ff7b86c12d8c2ece32f0062a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{OCEANS 2018 MTS/IEEE Charleston}
+      \field{title}{Calibration and direction of arrival performance of sonar arrays composed of multiple sub-arrays}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{pesavento2002direction}{article}{}
+      \name{author}{3}{}{%
+        {{hash=31d514bb6ca737ad774b163dc0f5df7e}{%
+           family={Pesavento},
+           familyi={P\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b6fe6dbbde7d609f0308130a94ea59d4}{%
+           family={Gershman},
+           familyi={G\bibinitperiod},
+           given={Alex\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ae76e8fe954d4bb5d732a9b295c0aa5e}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Kon\bibnamedelima Max},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \strng{fullhash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \strng{bibnamehash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \strng{authorbibnamehash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \strng{authornamehash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \strng{authorfullhash}{bc8d47bbfa0b105be0a27c4decb634ec}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Signal Processing}
+      \field{number}{9}
+      \field{title}{Direction finding in partly calibrated sensor arrays composed of multiple subarrays}
+      \field{volume}{50}
+      \field{year}{2002}
+      \field{pages}{2103\bibrangedash 2115}
+      \range{pages}{13}
+    \endentry
+    \entry{conway2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=86ac2234f4d2146f60cf538c2e829e7d}{%
+           family={Conway},
+           familyi={C\bibinitperiod},
+           given={M\bibnamedelima David},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=89afc5898b983eb07a1f6c585ab29780}{%
+           family={Du\bibnamedelima Russel},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd64aaf57024e502a410dfd14c80bf46}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bcd3cb91faa75aa5893a790188b6f24f}{%
+           family={Parry},
+           familyi={P\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{c4a5f15c067932ba7c90c4a9de8f9a15}
+      \strng{fullhash}{92192b88e0d3285ad1d15586df14bfce}
+      \strng{bibnamehash}{92192b88e0d3285ad1d15586df14bfce}
+      \strng{authorbibnamehash}{92192b88e0d3285ad1d15586df14bfce}
+      \strng{authornamehash}{c4a5f15c067932ba7c90c4a9de8f9a15}
+      \strng{authorfullhash}{92192b88e0d3285ad1d15586df14bfce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE Radar Conference (RadarConf18)}
+      \field{title}{Multifunction phased array radar advanced technology demonstrator nearfield test results}
+      \field{year}{2018}
+      \field{pages}{1412\bibrangedash 1415}
+      \range{pages}{4}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
